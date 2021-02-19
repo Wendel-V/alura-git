@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "local"]
+	url = Users/Desktop/Alura/github2
+	fetch = +refs/heads/*:refs/remotes/local/*
